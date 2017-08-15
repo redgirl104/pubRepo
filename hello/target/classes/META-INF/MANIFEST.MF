@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: LDCC
+Class-Path: lib/slf4j-api-1.7.12.jar lib/libthrift-0.10.0.jar lib/http
+ client-4.4.1.jar lib/commons-logging-1.2.jar lib/commons-codec-1.9.ja
+ r lib/httpcore-4.4.1.jar
+Build-Jdk: 1.8.0_101
+Created-By: Maven Integration for Eclipse
+Main-Class: com.redgirl104.hello.HelloServer
+
